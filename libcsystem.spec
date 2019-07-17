@@ -1,12 +1,8 @@
-# m4/libcerror.m4
+# see m4/${libname}.m4 />= for required version of particular library
 %define		libcerror_ver	20120425
-# m4/libclocale.m4
 %define		libclocale_ver	20120425
-# m4/libcnotify.m4
 %define		libcnotify_ver	20120425
-# m4/libcstring.m4
 %define		libcstring_ver	20120425
-# m4/libuna.m4
 %define		libuna_ver	20120425
 Summary:	Library to support cross-platform C system functions
 Summary(pl.UTF-8):	Biblioteka wspierająca wieloplatformowe funkcje systemowe w C
